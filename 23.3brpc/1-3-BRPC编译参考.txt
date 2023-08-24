@@ -1,0 +1,2 @@
+本次课程主要讲解grpc，如果对brpc感兴趣参考该链接进行编译（下载源码的时候可以选择更新版本的源码）
+https://www.yuque.com/docs/share/8a68ec04-20b4-47e6-b23d-f20694dc8609?# 《brpc开发环境搭建》
